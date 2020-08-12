@@ -7,7 +7,7 @@
 
 [//]:#  asddsadsa
 
- [//]:# (Hello)
+[//]:# (Hello)
  
     not a list item
 
